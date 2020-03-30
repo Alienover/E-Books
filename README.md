@@ -1,6 +1,7 @@
 Here is some book collections in this repository
 
 ### 2020 Reading List
+- [x] [Hackers and Painters]
 - [ ] [Bullet Journal Method - Ryder Carrol]
 - [ ] [The Laws of Human Nature - Robert Greene]
 
@@ -13,6 +14,7 @@ Here is some book collections in this repository
 * [Others]
 
 
+[Hackers and Painters]: https://github.com/Alienover/E-Books/tree/master/Others/Hackers%20and%20Painters
 [Bullet Journal Method - Ryder Carrol]: https://github.com/Alienover/E-Books/tree/master/Management/Bullet%20Journal%20Method
 [The Laws of Human Nature - Robert Greene]: https://github.com/Alienover/E-Books/tree/master/Personal%20Growth/The%20Laws%20of%20Human%20Nature
 
